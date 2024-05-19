@@ -1,1 +1,2 @@
-# pico
+# Pico Repository 🥧
+
